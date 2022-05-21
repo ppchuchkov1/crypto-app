@@ -76,7 +76,7 @@ const Hero = () => {
       >
         <Grid item xs={12} sm={6}>
           <Typography className={classes.heroHeading}>
-            Buy & Sell <br />
+            Buy & Sell LUNA<br />
             crypto in minutes
           </Typography>
           <Typography className={classes.heroParagraph}>
